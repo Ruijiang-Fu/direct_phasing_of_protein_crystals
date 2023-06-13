@@ -1,4 +1,4 @@
-# direct_phasing_of_coiled_coil_protein_crystals
+# direct_phasing_of_protein_crystals
 Software requirement:
 1. Intel MKL libraries should be installed. Intel MKL is part of Intel One API which can be downloaded free 
 from https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html
